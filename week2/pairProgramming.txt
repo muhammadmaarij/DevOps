@@ -1,5 +1,6 @@
 Article 1: Pair Programming and its Benefits
 
+
 Pair programming is a software development technique where two programmers work 
 together on a single workstation. One programmer writes the code while the other
 observes, reviews, and provides feedback in real-time. The roles are switched
